@@ -1,4 +1,12 @@
 - name: Index
   href: index.md
-- name: Secured-core PC Overview
-  href: overview.md
+- name: Overview
+  items:
+  - name: Secured-core PC Overview
+    href: overview.md
+  - name: Topic number 2
+    href: topic2.md
+- name: Something
+  items:
+    - name: item 1
+      href: item2.md

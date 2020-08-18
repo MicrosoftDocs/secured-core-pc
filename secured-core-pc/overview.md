@@ -4,6 +4,7 @@ description: This document provides an overview of the Windows 10 Secured-core P
 ms.date: 08/18/2020
 ms.topic: article
 ms.author: bkendall
+author: brentkendall
 ---
 
 # Windows 10 Secured-core PCs
